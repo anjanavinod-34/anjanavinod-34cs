@@ -1,6 +1,6 @@
 # anjanavinod-34cs
 <h1 align="center">Hi 👋, I'm Anjana Vinod</h1>
-<h3 align="center">A passionate computer engineering undergrad trying to excel career in the field of AI and feature relevant fields.</h3>
+<h3 align="center">A passionate computer engineering undergrad trying to excel career in the field of AI and future relevant fields.</h3>
 
 - 🌱 I’m currently learning **Machine learning basics and AI**
 
